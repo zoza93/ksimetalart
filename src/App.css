@@ -1,0 +1,15 @@
+.navItemLink,
+.linkButton {
+    text-decoration: none;
+}
+
+.navItemLink {
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.navItemLink:hover {
+    background-color: #111;
+}
